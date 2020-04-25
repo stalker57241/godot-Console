@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/391310__pfranzen__hitting-the-enter-key-on-a-keyboard.ogg-8b42358d6ffb558cd0403e446f871753.oggstr"
+
+[deps]
+
+source_file="res://res/391310__pfranzen__hitting-the-enter-key-on-a-keyboard.ogg"
+dest_files=[ "res://.import/391310__pfranzen__hitting-the-enter-key-on-a-keyboard.ogg-8b42358d6ffb558cd0403e446f871753.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
