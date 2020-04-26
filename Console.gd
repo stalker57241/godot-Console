@@ -1,8 +1,5 @@
 extends Panel
 
-enum Error {
-	ERR_DIRECTORY_ALREADY_EXISTS = 49
-}
 onready var text_edit = $TextEdit
 var locked_chars = [
 	KEY_UP,
